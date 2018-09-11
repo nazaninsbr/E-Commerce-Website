@@ -1,4 +1,4 @@
-# Reservation 
+# Ecommerce Website 
 
 this is a very simple django e-commerce website without login or signup. <br>
 here is what it has:
